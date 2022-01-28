@@ -1,3 +1,7 @@
+* {
+  background-color: #c8ee90;
+}
+
 body {
   font-family: 'Quicksand', sans-serif;
   background-color: #c8ee90;
@@ -5,19 +9,21 @@ body {
 }
 
 .chem-logo {
-  height: 100px;
-  width: 150px;
+  background-color: white;
+  height: 200px;
+  width: 250px;
 }
 
 .DR {
   background-color: white;
 }
 
-#title-index {
+.title {
   border: 5px solid white;
 }
 
 #dylan-img {
   margin-top: 25px;
   border: 3px solid white;
+  opacity: 90%;
 }

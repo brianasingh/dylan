@@ -4,6 +4,11 @@ body {
   text-align: center;
 }
 
+.chem-logo {
+  height: 100px;
+  width: 150px;
+}
+
 .DR {
   background-color: white;
 }

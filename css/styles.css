@@ -2,6 +2,11 @@
   background-color: #c8ee90;
 }
 
+a:hover {
+  color: #c8ee90;
+  background-color: #8800c7;
+}
+
 body {
   font-family: 'Quicksand', sans-serif;
   text-align: center;
@@ -20,6 +25,7 @@ body {
 .schools {
   border: 3px dotted #7e0acb;
 }
+
 .title {
   border: 5px solid white;
 }

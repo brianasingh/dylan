@@ -44,6 +44,10 @@ nav-bar {
   border: 5px solid white;
 }
 
+.thankyou-title {
+  border: 5px solid white;
+}
+
 /* slideshow buttons */
 
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>

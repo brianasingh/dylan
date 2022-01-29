@@ -12,6 +12,10 @@ body {
   text-align: center;
 }
 
+nav-bar {
+  margin: 20px;
+}
+
 .chem-logo {
   background-color: white;
   height: 200px;

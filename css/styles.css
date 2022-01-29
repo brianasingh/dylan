@@ -18,6 +18,16 @@ body {
   width: 250px;
 }
 
+.classroom-images {
+  height: 500px;
+  width: 750px;
+}
+
+.portrait-classroom-images{
+  height: 500px;
+  width: 350px;
+}
+
 .DR {
   background-color: white;
 }
@@ -29,6 +39,11 @@ body {
 .title {
   border: 5px solid white;
 }
+
+/* slideshow buttons */
+
+<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
 
 #dylan-img {
   margin-top: 25px;
